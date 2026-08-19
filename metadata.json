@@ -1,0 +1,6 @@
+{
+  "name": "Student Hub",
+  "description": "Student academic companion for tracking attendance, subjects, tasks, assignments, and local profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
